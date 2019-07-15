@@ -229,7 +229,7 @@ plt.plot(data.petal_width,color='b')
 plt.show()
 ```
 
-![img](.\img\Q7.png)
+![img](https://github.com/GamerNoTitle/Anaconda-and-Function/blob/master/img/Q7.png?raw=true)
 
 
 
@@ -244,7 +244,7 @@ plt.legend()
 plt.show()
 ```
 
-![img](.\img\Q8.png)
+![img](https://github.com/GamerNoTitle/Anaconda-and-Function/blob/master/img/Q8.png?raw=true)
 
 ## Question 9
 
@@ -256,4 +256,4 @@ plt.title('Sepal Length')
 plt.show()
 ```
 
-![img](.\img\Q9.png)
+![img](https://github.com/GamerNoTitle/Anaconda-and-Function/blob/master/img/Q9.png?raw=true)
